@@ -1,3 +1,4 @@
 struct student {
 	char name[100] = "";
+void showStudent();
 };
